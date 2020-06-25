@@ -14,7 +14,7 @@
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  &#x2611; |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  &#x2611; |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  &#x2611; |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | &#x2611; |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | &#x2611; |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | &#x2611; |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | &#x2611; |
@@ -25,25 +25,25 @@
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | &#x2611; |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | &#x2611; |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | &#x2611; |
-| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
-| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
-| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
-| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
-| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
-| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
-| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
-| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
+| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | &#x2611; |
+| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | &#x2611; |
+| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 | &#x2611; |
+| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | &#x2611; |
+| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | &#x2611; |
+| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | &#x2611; |
+| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | &#x2611; |
+| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  &#x2611; |
+| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | &#x2611; |
+| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | &#x2611;  |
+| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | &#x2611; |
+| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | &#x2611; |
+| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | &#x2611; |
+| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 | &#x2611;  |
+| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 | &#x2611; |
+| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | &#x2611; |
+| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 | &#x2611; |
+| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | &#x2611; |
+| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | &#x2611; |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
